@@ -16,6 +16,11 @@ SQL_DATABASE = "*"
 SQL_USER = "*"
 SQL_PASSWORD = "*"
 ```
+Algumas destas informações devem são provenientes de :
+>Resource visualizer
+>> Settings
+>>>   Connection strings
+
 
 ## Caso seja necessário atualizar a versão do Python
 ```bash
