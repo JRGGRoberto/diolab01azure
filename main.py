@@ -1,4 +1,4 @@
-import streamlit as streamlit
+import streamlit as st
 from azure.storage.blob import BlobServiceClient
 import os
 import pymssql
