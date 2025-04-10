@@ -42,6 +42,7 @@ python3 -m pip install -r requirements.txt
 streamlit run main.py
 ```
 Isto abrirá o browser
+
 ![Página](./doc/assets/images/browser.png)
           
 
