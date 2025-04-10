@@ -1,0 +1,12 @@
+CREATE TABLE Produtos (
+  id INT IDENTITY(1,1) PRIMARY KEY,
+  nome NVARCHAR(255),
+  descricao NVARCHAR(MAX),
+  preco DECIMAIL(18,2),
+  imagem_url NVARCHAR(2083)
+)
+
+Apppi install -r requeriments.txt
+streamlit run main.py
+
+/Users/robertogoes/dev/dio/bootcampMicrosoftAzure/laboratorio/venv/bin/python3 -m pip install --upgrade pip
